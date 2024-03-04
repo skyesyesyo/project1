@@ -17,6 +17,8 @@ git commit -m "note"
 git push origin master
     git checkout -b laptop
     git push origin laptop
+    website "compare & pull request"
+    
 
 다른컴
 git clone https://github.com/skyesyesyo/project1.git laptop
