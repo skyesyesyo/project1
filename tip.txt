@@ -1,3 +1,5 @@
+https://youtu.be/NpmFbWO6HPU?si=RNcyLo1h5ZQVGb8f
+
 * CTRL+C, the keyboard interrupt signal is sent to the running script, causing it to terminate and return control to the command prompt.
 * Select each occurrence of a word: Use Ctrl + D
 
@@ -14,14 +16,18 @@ Select the current word: Press Ctrl + D
 git add .
     (option) git status
 git commit -m "note"
-git push origin master
+git push origin main
     git checkout -b laptop
     git push origin laptop
     website "compare & pull request"
-    
+
 
 다른컴
 git clone https://github.com/skyesyesyo/project1.git laptop
 cd laptop
 code.
 
+동기화
+git add .
+git commit -m "note"  여기까지 해놓고
+git pull origin main
