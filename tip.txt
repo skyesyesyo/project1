@@ -1,0 +1,9 @@
+* CTRL+C, the keyboard interrupt signal is sent to the running script, causing it to terminate and return control to the command prompt.
+* Select each occurrence of a word: Use Ctrl + D
+
+Select word by word: Use Ctrl + Shift + Right on a line
+Select all occurrences of a word: Use Ctrl + Shift + L
+Select multiple words: Select one occurrence of the word, then press Ctrl + D
+Skip a selection: Use Ctrl + K + D
+Add the next occurrence of the word to the selection: Press Ctrl + D
+Select the current word: Press Ctrl + D
