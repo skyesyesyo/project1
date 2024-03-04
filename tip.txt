@@ -16,7 +16,7 @@ Select the current word: Press Ctrl + D
 git add .
     (option) git status
 git commit -m "note"
-git push origin main
+git push origin master
     git checkout -b laptop
     git push origin laptop
     website "compare & pull request"
@@ -30,4 +30,4 @@ code.
 동기화
 git add .
 git commit -m "note"  여기까지 해놓고
-git pull origin main
+git pull origin master
