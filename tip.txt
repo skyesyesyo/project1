@@ -7,3 +7,19 @@ Select multiple words: Select one occurrence of the word, then press Ctrl + D
 Skip a selection: Use Ctrl + K + D
 Add the next occurrence of the word to the selection: Press Ctrl + D
 Select the current word: Press Ctrl + D
+
+
+---git
+추가
+git add .
+    (option) git status
+git commit -m "note"
+git push origin master
+    git checkout -b laptop
+    git push origin laptop
+
+다른컴
+git clone https://github.com/skyesyesyo/project1.git laptop
+cd laptop
+code.
+
